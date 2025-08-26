@@ -1,14 +1,37 @@
 # 3x3-Matrix-Multiplier-Verilog-
 Design of 3x3 Matric Multiplier using verilog in Xilinx ise with Vertex 7. I also used Icarus Verilog and Gtkwave for verificaion and waveforms.
 <br><br>
-**1] Icarus Output** 
-<br><br>
+## Icarus Output
+
 ![Icarus Output](Icarus%20Output.png)
-<br><br>
-**2] RTL Schematic**
-<br><br>
+
+---
+
+## RTL Schematic
+
 ![RTL Schematic](RTL%20Schematic.png)
-<br><br>
-**3] Technological Schematic**
-<br><br>
+
+---
+
+## Technological Schematic
+
 ![Technological Schematic](Technological%20Schematic.png)
+
+---
+
+## GTK Wave Output
+
+![GTK Wave output](GTK%20Wave%20output.png)
+
+---
+
+## Xilinx ISE Waveform 1
+
+![Xilinx ISE Waveform 1](Xilinx%20ISE%20Waveform%201.png)
+
+---
+
+## Xilinx ISE Waveform 2
+
+![Xilinx ISE Waveform 2](Xilinx%20ISE%20Waveform%202.png)
+
