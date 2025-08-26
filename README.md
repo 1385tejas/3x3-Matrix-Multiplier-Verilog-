@@ -4,6 +4,7 @@
 
 This project implements a **3x3 Matrix Multiplier** using combinational logic in Verilog. Two 3x3 input matrices (**A** and **B**), each with 8-bit elements, are multiplied to produce a 3x3 output matrix (**C**) with 19-bit wide elements.
 
+- Implementation targeted for **Xilinx Vertex 7 FPGA**.
 - All code and testbenches are written in Verilog.
 - Simulations are performed using **Xilinx ISE** and **Icarus Verilog/GTKWave**.
 - Waveforms and schematics are included for visualization and verification.
@@ -89,9 +90,8 @@ This project implements a **3x3 Matrix Multiplier** using combinational logic in
 
 ---
 
-## Credits
+## Tags
 
-Project by **Tejas Mallah**  
-Verilog | Xilinx ISE | Icarus Verilog | GTKWave
+#verilog #fpga #matrixmultiplier #xilinx #vlsi #nptel
 
 ---
